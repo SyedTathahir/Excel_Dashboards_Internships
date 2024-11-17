@@ -69,7 +69,7 @@ Below is a preview of how the dashboards function. Click the GIFs for an interac
 
 ### Learning Aspiration Dashboard Preview
 
-![Learning Aspiration Dashboard](./path/to/learning_dashboard.gif)
+![Learning Aspiration Dashboard](./Excel_Dashboards_Internships/learning_Aspiration_Dashboard.gif)
 
 ### Manager Aspiration Dashboard Preview
 
