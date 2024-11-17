@@ -5,17 +5,14 @@ This repository contains customized dashboards for learning aspirations, manager
 
 Below is a preview of how the dashboards function. Click the GIFs for an interactive view.
 
-### Learning Aspiration Dashboard Preview
+### Learning Aspirations Dashboard
+![Learning Aspirations Dashboard](./Learning_Aspirations_dashboard_Vid.gif)
 
-![Learning Aspiration Dashboard](./learning_Aspiration_Dashboard_Vid.gif)
+### Manager Aspiration Dashboard
+![Manager Aspiration Dashboard](./Manager_Aspiration_dashboard_vid.gif)
 
-### Manager Aspiration Dashboard Preview
-
-![Manager Aspiration Dashboard](./path/to/manager_dashboard.gif)
-
-### Mission Aspiration Dashboard Preview
-
-![Mission Aspiration Dashboard](./path/to/mission_dashboard.gif)
+### Mission Aspiration Dashboard
+![Mission Aspiration Dashboard](./Mission_Aspiration_dashboard_vid.gif)
 ## Dashboard Summaries
 
 ### 1. Learning Aspiration Dashboard (Blue Theme)
