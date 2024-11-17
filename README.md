@@ -6,7 +6,7 @@ This repository contains customized dashboards for learning aspirations, manager
 Below is a preview of how the dashboards function. Click the GIFs for an interactive view.
 
 ### Learning Aspirations Dashboard
-![Learning Aspirations Dashboard](./Learning_Aspirations_Dashboard_Vid.gif)
+![Learning Aspirations Dashboard](./Learning_Aspiration_Dashboard_Vid.gif)
 
 ### Manager Aspiration Dashboard
 ![Manager Aspiration Dashboard](./Manager_Aspiration_dashboard_vid.gif)
