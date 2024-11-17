@@ -8,7 +8,7 @@ This repository contains three interconnected Excel dashboards analyzing GenZ's 
 
 Below is a preview of how the dashboards function. Click the GIFs for an interactive view.
 
-## Learning Aspirations Dashboard
+## 1.Learning Aspirations Dashboard
 ![Learning Aspirations Dashboard](./Learning_Aspiration_Dashboard_Vid.gif)
 
 ## Introduction
@@ -112,7 +112,7 @@ The dashboard provides:
 
 ## Conclusion
 The Learning Aspiration Dashboard serves as a powerful tool for understanding educational preferences and aspirations. It effectively visualizes the complex relationships between learning environments, personal preferences, and success factors. The insights derived from this dashboard can be valuable for educational institutions, training programs, and professional development initiatives in optimizing their learning approaches.
-## Manager Aspiration Dashboard
+##2.Manager Aspiration Dashboard
 ![Manager Aspiration Dashboard](./Manager_Aspiration_dashboard_vid.gif)
 
 ## Introduction
@@ -236,7 +236,7 @@ Key factors ranked:
 
 ## Conclusion
 The GenZ Manager Aspiration Dashboard reveals a clear preference for flexible, innovative work environments with structured growth opportunities. The data shows that emerging managers prioritize work-life balance, support systems, and progressive company cultures. This dashboard serves as a valuable tool for organizations looking to attract and retain GenZ talent in managerial roles.
-## Mission Aspiration Dashboard
+## 3.Mission Aspiration Dashboard
 ![Mission Aspiration Dashboard](./Mission_Aspiration_dashboard_vid.gif)
 
 ## Introduction
