@@ -4,119 +4,6 @@
 ## 📋 Project Overview
 This repository contains three interconnected Excel dashboards analyzing GenZ's aspirations across learning, management, and mission alignment, based on a comprehensive survey conducted during my KultureHire internship. The analysis provides deep insights into how GenZ approaches education, career development, and organizational values.
 
-## 🛠️ Data Processing Methodology
-### Data Collection
-- Comprehensive survey conducted through KultureHire
-- Raw responses collected across multiple dimensions
-- Focus on GenZ participants
-
-### Data Cleaning Process
-1. Standardization of response formats
-2. Removal of duplicate entries
-3. Handling missing values
-4. Data validation and verification
-5. Format consistency checks
-6. Outlier identification and treatment
-
-### Data Analysis Approach
-- Statistical analysis of responses
-- Correlation studies
-- Trend identification
-- Pattern recognition
-- Cross-dimensional analysis
-
-## 📊 Dashboard Suite
-
-### 1. [Learning Aspiration Dashboard](./Learning_Aspiration_Dashboard.md)
-Analyzes educational preferences and learning environment choices
-- Learning environment preferences
-- Educational aspirations
-- Influencing factors
-- Success metrics
-
-### 2. [Manager Aspiration Dashboard](./Manager_Aspiration_Dashboard.md)
-Examines managerial ambitions and workplace expectations
-- Work arrangement preferences
-- Company type preferences
-- Salary expectations
-- Workplace factor analysis
-
-### 3. [Mission Aspiration Dashboard](./Mission_Aspiration_Dashboard.md)
-Evaluates organizational alignment and value preferences
-- Mission transparency perception
-- Social impact ratings
-- Work-life balance correlations
-- Educational alignment
-
-## 📈 Technical Implementation
-### Tools Used
-- Microsoft Excel
-- Advanced Excel Functions
-- Pivot Tables
-- Data Visualization Tools
-- Statistical Analysis Functions
-
-### Skills Applied
-- Data Cleaning
-- Data Standardization
-- Advanced Charting
-- Dynamic Dashboarding
-- Statistical Analysis
-- Color Theme Implementation
-- Interactive Elements
-
-## 🎯 Key Findings
-
-### Learning Preferences
-- Strong preference for structured learning environments
-- High correlation between environment and success
-- Significant interest in higher education
-
-### Management Aspirations
-- Preference for flexible work arrangements
-- Focus on innovation-driven companies
-- Strong work-life balance priorities
-
-### Mission Alignment
-- High value on organizational transparency
-- Moderate social impact expectations
-- Strong correlation between mission alignment and satisfaction
-
-## 💡 Recommendations for Organizations
-
-1. **Learning & Development**
-   - Implement structured learning programs
-   - Provide clear educational support
-   - Create balanced learning environments
-
-2. **Management Approach**
-   - Offer flexible work arrangements
-   - Focus on innovation and growth
-   - Prioritize work-life balance
-
-3. **Organizational Culture**
-   - Enhance mission transparency
-   - Develop strong social impact initiatives
-   - Create clear career progression paths
-
-## 📁 Repository Structure
-```
-├── README.md
-├── Dashboards/
-│   ├── Learning_Aspiration_Dashboard.xlsx
-│   ├── Manager_Aspiration_Dashboard.xlsx
-│   └── Mission_Aspiration_Dashboard.xlsx
-├── Documentation/
-│   ├── Learning_Aspiration_Dashboard.md
-│   ├── Manager_Aspiration_Dashboard.md
-│   └── Mission_Aspiration_Dashboard.md
-└── Assets/
-    ├── Learning_Aspirations_dashboard_Vid.gif
-    ├── Manager_Aspiration_dashboard_vid.gif
-    └── Mission_Aspiration_dashboard_vid.gif
-```
-
-
 ## Preview of Dashboards
 
 Below is a preview of how the dashboards function. Click the GIFs for an interactive view.
@@ -126,6 +13,11 @@ Below is a preview of how the dashboards function. Click the GIFs for an interac
 
 ## Introduction
 The Learning Aspiration Dashboard is a comprehensive analytics tool designed to visualize and analyze learning preferences, educational aspirations, and influencing factors in learning environments. Using a professional blue color scheme, this dashboard provides multiple perspectives on how individuals engage with different learning environments and their educational goals.
+Analyzes educational preferences and learning environment choices
+- Learning environment preferences
+- Educational aspirations
+- Influencing factors
+- Success metrics
 
 ## Dashboard File
 - `Learning_Aspiration_Dashboard.xlsx` - Main dashboard file with all charts and analysis
@@ -225,6 +117,11 @@ The Learning Aspiration Dashboard serves as a powerful tool for understanding ed
 
 ## Introduction
 The Manager Aspiration Dashboard provides a comprehensive analysis of GenZ's managerial preferences, workplace expectations, and career aspirations. Using a professional green color scheme, this dashboard visualizes various aspects of modern workplace preferences, salary expectations, and work arrangements preferred by emerging managers.
+Examines managerial ambitions and workplace expectations
+- Work arrangement preferences
+- Company type preferences
+- Salary expectations
+- Workplace factor analysis
 
 ## Dashboard File
 - `Manager_Aspiration_Dashboard.xlsx` - Main dashboard file containing all analyses
@@ -344,7 +241,11 @@ The GenZ Manager Aspiration Dashboard reveals a clear preference for flexible, i
 
 ## Introduction
 The Mission Aspiration Dashboard provides an in-depth analysis of GenZ's perspectives on organizational mission alignment, transparency, and social impact. Using a professional purple color scheme, this dashboard visualizes the complex relationships between mission perception, work preferences, and employee satisfaction across multiple dimensions.
-
+Evaluates organizational alignment and value preferences
+- Mission transparency perception
+- Social impact ratings
+- Work-life balance correlations
+- Educational alignment
 ## Dashboard File
 - `Mission_Aspiration_Dashboard.xlsx` - Main dashboard with integrated analytics
 - Comprehensive data integration within workbook
@@ -469,6 +370,60 @@ The GenZ Mission Aspiration Dashboard reveals a complex interplay between organi
 4. Create robust learning environments
 5. Maintain open communication channels
 
+## 🛠️ Data Processing Methodology
+### Data Collection
+- Comprehensive survey conducted through KultureHire
+- Raw responses collected across multiple dimensions
+- Focus on GenZ participants
+
+### Data Cleaning Process
+1. Standardization of response formats
+2. Removal of duplicate entries
+3. Handling missing values
+4. Data validation and verification
+5. Format consistency checks
+6. Outlier identification and treatment
+
+### Data Analysis Approach
+- Statistical analysis of responses
+- Correlation studies
+- Trend identification
+- Pattern recognition
+- Cross-dimensional analysis
+
+
+## 📈 Technical Implementation
+### Tools Used
+- Microsoft Excel
+- Advanced Excel Functions
+- Pivot Tables
+- Data Visualization Tools
+- Statistical Analysis Functions
+
+### Skills Applied
+- Data Cleaning
+- Data Standardization
+- Advanced Charting
+- Dynamic Dashboarding
+- Statistical Analysis
+- Color Theme Implementation
+- Interactive Elements
+#### 🎯 Key Findings
+
+### Learning Preferences
+- Strong preference for structured learning environments
+- High correlation between environment and success
+- Significant interest in higher education
+
+### Management Aspirations
+- Preference for flexible work arrangements
+- Focus on innovation-driven companies
+- Strong work-life balance priorities
+
+### Mission Alignment
+- High value on organizational transparency
+- Moderate social impact expectations
+- Strong correlation between mission alignment and satisfaction
 ## File Information
 
 - **Final Dashboard Files**:
