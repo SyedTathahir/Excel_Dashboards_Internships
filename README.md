@@ -8,8 +8,6 @@ Below is a preview of how the dashboards function. Click the GIFs for an interac
 ### Learning Aspirations Dashboard
 ![Learning Aspirations Dashboard](./Learning_Aspiration_Dashboard_Vid.gif)
 
-![Dashboard Preview](./Learning_Aspirations_dashboard_Vid.gif)
-
 ## Introduction
 The Learning Aspiration Dashboard is a comprehensive analytics tool designed to visualize and analyze learning preferences, educational aspirations, and influencing factors in learning environments. Using a professional blue color scheme, this dashboard provides multiple perspectives on how individuals engage with different learning environments and their educational goals.
 
