@@ -7,7 +7,7 @@ Below is a preview of how the dashboards function. Click the GIFs for an interac
 
 ### Learning Aspiration Dashboard Preview
 
-![Learning Aspiration Dashboard](./learning_Aspiration_Dashboard.gif)
+![Learning Aspiration Dashboard](./learning_Aspiration_Dashboard_Vid.gif)
 
 ### Manager Aspiration Dashboard Preview
 
